@@ -38,14 +38,14 @@ Implementar uma aplicação para registrar compras em um cartão.
 
 TELA 1
 
+![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image1.png)
+
 
 TELA 2
-
+![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image2.png)
 
 TELA 3
-
-
-
+![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image3.png)
 
 
 
