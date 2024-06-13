@@ -37,14 +37,19 @@ Implementar uma aplicação para registrar compras em um cartão.
 ## Minha Solução
 
 TELA 1
+Compra finalizada de 2 produtos, restando saldo no cartão. A lista dos produtos comprados está em ordem crescente dos valores.
 
 ![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image1.png)
 
 
 TELA 2
+Compra de 1 produto realizada e a compra de 1 produto negada por falta de saldo. A compra foi finalizada somente com o primeiro produto.
+
 ![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image2.png)
 
 TELA 3
+Compra de 4 produtos realizados, restando saldo no cartão. A lista dos produtos comprados está em ordem crescente dos valores.
+
 ![image](https://github.com/Camila-Barros/DesafioJavaBasico3/blob/master/Image3.png)
 
 
